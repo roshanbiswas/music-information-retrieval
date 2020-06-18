@@ -1,1 +1,2 @@
-# music-information-retrieval
+# Music Information Retrieval
+## by Roshan Biswas 
